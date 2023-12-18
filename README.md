@@ -12,7 +12,7 @@
 - [3. Conversions Implemented](#conversions-implemented)
 # 0. Description
 
-Write a library that conatins ft_printf(), a function that will mimic the original **printf()**.
+Write a library that contains ft_printf(), a function that will mimic the original **printf()**.
 
 
 # 1. Prototype
@@ -27,9 +27,9 @@ Write a library that conatins ft_printf(), a function that will mimic the origin
     
 - Your function has to handle the following conversions: cspdiuxX%
     
-- Your functionwil be compared against the orginal **printf()**
+- Your function will be compared against the orginal **printf()**
     
-- Ypu must use the command **ar** to create yur library. Using the libtool command is forbidden.
+- You must use the command **ar** to create your library. Using the libtool command is forbidden.
     
 - Your **libftprintf.a** has to be created at the root of your repository.
 
