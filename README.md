@@ -11,7 +11,8 @@
 - [0. Description](#0-description)
 - [1. Prototype](#1-prototype)
 - [2. Requirements](#2-requirements)
-- [3. Conversions Implemented](#conversions-implemented)
+- [3. Conversions Implemented](#3-conversions-implemented)
+  
 # 0. Description
 
 Write a library that contains ft_printf(), a function that will mimic the original **printf()**.
@@ -35,7 +36,7 @@ Write a library that contains ft_printf(), a function that will mimic the origin
     
 - Your **libftprintf.a** has to be created at the root of your repository.
 
-# Conversions Implemented
+# 3. Conversions Implemented
 
 - **%c**
 
